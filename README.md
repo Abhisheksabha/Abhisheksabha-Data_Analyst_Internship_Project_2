@@ -1,4 +1,4 @@
-# Kickstarter Crowdfunding Project 
+# KickStarter Crowdfunding Project 
 
 ## Power BI Dashboard
 ![](https://github.com/Abhisheksabha/Data_Analyst_Internship_Project_2/blob/main/Kickstarter_Power_BI_Report_1.png)
