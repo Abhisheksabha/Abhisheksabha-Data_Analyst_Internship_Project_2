@@ -1,12 +1,12 @@
 # Kickstarter Crowdfunding Project 
 
 ## Power BI Dashboard
-[](https://github.com/Abhisheksabha/Data_Analyst_Internship_Project_2/blob/main/Kickstarter_Power_BI_Report_1.png)
-[](https://github.com/Abhisheksabha/Data_Analyst_Internship_Project_2/blob/main/Kickstarter_Power_BI_Report_2.png)
+![](https://github.com/Abhisheksabha/Data_Analyst_Internship_Project_2/blob/main/Kickstarter_Power_BI_Report_1.png)
+![](https://github.com/Abhisheksabha/Data_Analyst_Internship_Project_2/blob/main/Kickstarter_Power_BI_Report_2.png)
 
 ## Tableau Dashboard
-[](https://github.com/Abhisheksabha/Data_Analyst_Internship_Project_2/blob/main/Kickstarter_Tableau_Dahsboard_1.png)
-[](https://github.com/Abhisheksabha/Data_Analyst_Internship_Project_2/blob/main/Kickstarter_Tableau_Dashboard_2.png)
+![](https://github.com/Abhisheksabha/Data_Analyst_Internship_Project_2/blob/main/Kickstarter_Tableau_Dahsboard_1.png)
+![](https://github.com/Abhisheksabha/Data_Analyst_Internship_Project_2/blob/main/Kickstarter_Tableau_Dashboard_2.png)
 
 # Dashboard Links 
 [Tableau Dashboard](https://public.tableau.com/views/crowdfundingProject/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
