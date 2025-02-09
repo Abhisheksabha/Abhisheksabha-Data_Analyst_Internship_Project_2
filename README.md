@@ -1,2 +1,1 @@
-# Abhisheksabha-Data_Analyst_Internship_Project_2
-Kickstarter Crowdfunding Project Implementation
+# Kickstarter Crowdfunding Project Implementation
