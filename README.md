@@ -1,12 +1,12 @@
 # Kickstarter Crowdfunding Project 
 
 ## Power BI Dashboard
-![](Kickstarter Power BI Report 1.png)
-![](Kickstarter Power BI Report 2.png)
+[](Kickstarter Power BI Report 1.png)
+[](Kickstarter Power BI Report 2.png)
 
 ## Tableau Dashboard
-![](Kickstarter Tableau Dahsboard 1.png)
-![](Kickstarter Tableau Dashboard 2.png)
+[](Kickstarter Tableau Dahsboard 1.png)
+[](Kickstarter Tableau Dashboard 2.png)
 
 # Dashboard Links 
 [Tableau Dashboard](https://public.tableau.com/views/crowdfundingProject/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
